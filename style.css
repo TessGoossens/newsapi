@@ -1,0 +1,28 @@
+*{
+    margin: 5px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.search{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+#container{
+    position: absolute;
+    top: 40%; 
+}
+#button{
+    background-color: rgb(35, 127, 155);
+    color: white;
+    height: 50px;
+    width: 259px;
+    border: 2px solid black;
+    margin: 5px;
+}
+#label{
+    font-size: 20px;
+    margin-top: 20px;
+    margin: 5px;
+    font-weight: bolder;
+}
